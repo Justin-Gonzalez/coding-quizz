@@ -1,0 +1,29 @@
+.h1{
+    text-align: left;
+    margin:0;
+    padding:0;
+}
+.h2{
+    text-align: right;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container-2{
+    text-align: center;
+    margin: 200px;
+}
+.btn{
+    background-color: rgb(255, 255, 255);
+ border-radius: 25px;
+ font-size: 30px;
+ 
+}
+.hide{
+    display: none;
+}
+.container-1{
+    margin: 0;
+    padding: 0;
+}
